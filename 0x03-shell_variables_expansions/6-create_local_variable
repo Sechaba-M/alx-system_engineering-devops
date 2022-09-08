@@ -1,2 +1,2 @@
 #!/bin/bash
-Local Name='BEST' Valu='School' 
+local Name=BEST Valu=School 
